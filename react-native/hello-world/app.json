@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "hello-world",
+    "slug": "snack-1857f41e-b7f8-4ec2-9b1c-b52cef9b1994",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "App apresentado na disciplina de DADM da PUC Barreiro - 2025 - Prof. Paulo Henrique Rodrigues"
+  }
+}
